@@ -1,3 +1,8 @@
+
+![AluraPlay - Google Chrome 09_10_2023 14_35_14](https://github.com/vivyhv/Aluraplay/assets/91763019/4a7b2740-fdfb-4856-a9e7-4586b2833a4f)
+
+
+
 Vídeos da sessão vídeos:
 
         <li class="videos__item">
